@@ -5,8 +5,8 @@ from shapely.geometry import box
 
 def checkerboard_geom(
     gdf,
+    type_col,
     state_col="state_id",
-    type_col="implementation_type",
     tile_m=50_000,          # ~50 km squares
     work_crs="EPSG:5070",   # planar meters CRS for US
 ):
