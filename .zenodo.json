@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "name": "Buhler, Cassidy Kim",
+      "orcid": "0000-0003-4157-4273",
+      "affiliation": "University of Colorado Boulder"
+    },
+  ],
+  "title": "State-level 30×30 conservation policy implementation and progress across the United States",
+  "description": "This dataset presents a curated compilation of U.S. state-level 30×30 conservation policy implementation and progress. The 30×30 initiative aims to conserve 30% of lands and waters by 2030. While federal efforts have been documented, comprehensive state-level policy information has been dispersed across multiple government sources. This dataset standardizes policy records for 13 U.S. states that have adopted 30×30 commitments through executive orders, statutes, legislative resolutions, or executive commitments. Each record includes implementation type, policy documentation, current progress status, and links to primary source documents. The dataset is joined with U.S. Census state boundaries to enable spatial analysis and visualization.",
+  "access_right": "open",
+  "license": "bsd-2-clause",
+  "upload_type": "data",
+  "grants": [
+    {
+      "id": "10.13039/100000001::2153040"
+    }
+  ]
+}
